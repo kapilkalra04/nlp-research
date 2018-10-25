@@ -1,9 +1,15 @@
-# nltk-inverted-indexing
-NLTK Pipeline to build simple inverted indexing for sentences
+# nlp-research
+## Getting Started with NLP using NLTK
 
-#### article referred - https://nlpforhackers.io/building-a-simple-inverted-index-using-nltk/
+### Reference Guide : https://nlpforhackers.io/start/
 
-#### STEPS:
-##### 1. Remove the StopWords from each input
-##### 2. Generate Root Form of the words left in the input
-##### 3. Generate HashTable for Storing the Reults 
+#### Notebook 1:
+- Gender-Classification on Names using a Decision Tree
+- Resource on Normalizing Data : http://simpledatamining.blogspot.com/2015/05/how-to-deal-with-mixed-data-types-when.html
+  1. numerical data   --> normalize
+  2. categorical data --> one-hot encoding
+  3. ordinal data     --> normalize without one-hot encoding
+
+#### Notebook 2:
+- Model to build a simple inverted indexing for  input sentences using NLTK (tokenization + stopword-removal + stemming/lemmatization)
+- Resource on Stemming vs Lemmatization : https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
