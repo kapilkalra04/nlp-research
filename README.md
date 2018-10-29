@@ -11,5 +11,10 @@
   3. ordinal data     --> normalize without one-hot encoding
 
 #### Notebook 2:
-- Model to build a simple inverted indexing for  input sentences using NLTK (tokenization + stopword-removal + stemming/lemmatization)
+- Model to build a simple inverted indexing for input sentences using NLTK (tokenization + stopword-removal + stemming/lemmatization)
 - Resource on Stemming vs Lemmatization : https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+
+#### Notebook 3:
+- Text Classification of a News Corpus using different methods to vectorize the given input
+- Resource explaining the different ways to vectorize text : https://monkeylearn.com/blog/beginners-guide-text-vectorization/
+														   
