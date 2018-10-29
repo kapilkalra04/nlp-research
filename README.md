@@ -17,4 +17,7 @@
 #### Notebook 3:
 - Text Classification of a News Corpus using different methods to vectorize the given input
 - Resource explaining the different ways to vectorize text : https://monkeylearn.com/blog/beginners-guide-text-vectorization/
-														   
+- Possible Representations :  
+  1. tf.idf
+  2. word2vec
+  3. skip-thought-vectors (Not Implemented)							   
