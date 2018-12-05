@@ -20,4 +20,7 @@
 - Possible Representations :  
   1. tf.idf
   2. word2vec
-  3. skip-thought-vectors (Not Implemented)							   
+  3. skip-thought-vectors (Not Implemented)
+
+#### Notebook 4:
+- Train custom NER tagger using spaCy to extract Aspects and Entities from given text corpus 
