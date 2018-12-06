@@ -106,4 +106,4 @@ venv.bak/
 # dataset
 /names_dataset.csv
 
-/aspect-entity-extraction/hidden
+/aspect-entity-extraction/hidden/

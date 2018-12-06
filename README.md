@@ -24,3 +24,5 @@
 
 #### Notebook 4:
 - Train custom NER tagger using spaCy to extract Aspects and Entities from given text corpus 
+- Attempt to solve SemEval 2014 task
+- Training and Test Data : http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools
