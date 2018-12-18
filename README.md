@@ -23,6 +23,5 @@
   3. skip-thought-vectors (Not Implemented)
 
 #### Notebook 4:
-- Train custom NER tagger using spaCy to extract Aspects and Entities from given text corpus 
-- Attempt to solve SemEval 2014 task
-- Training and Test Data : http://alt.qcri.org/semeval2014/task4/index.php?id=data-and-tools
+- Create a custom word2vec based on the OpinRank dataset containing reviews about cars and hotels 
+- Reference Article : http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XBjfIWloTDc
