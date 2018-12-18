@@ -22,7 +22,7 @@
   2. word2vec (Not Implemented)
   3. skip-thought-vectors (Not Implemented)
 
-#### Notebook 4:
+#### Notebook 4 (dir: word2vec):
 - Create a custom word2vec library based on the OpinRank dataset containing reviews about cars and hotels 
 - Reference Article : http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XBjfIWloTDc
-- Dataset: https://github.com/kavgan/OpinRank/tree/master
+- Dataset: https://github.com/kavgan/nlp-text-mining-working-examples/tree/master/word2vec
