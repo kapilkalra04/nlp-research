@@ -2,6 +2,7 @@
 ## Getting Started with NLP using NLTK
 
 ### Reference Guide : https://nlpforhackers.io/start/
+### Reference Guide : https://radimrehurek.com/gensim/tutorial.html
 
 #### Notebook 1 (dir: gender-classifier-names):
 - Gender-Classification on Names using a Decision Tree
@@ -23,10 +24,10 @@
   3. skip-thought-vectors (Not Implemented)
 
 #### Notebook 4 (dir: word2vec):
-- Create a custom word2vec library based on the OpinRank dataset containing reviews about cars and hotels 
+- Create a custom word2vec library based on the OpinRank dataset containing reviews about cars and hotels using Gensim
 - Reference Article : http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XBjfIWloTDc
 - Dataset: https://github.com/kavgan/nlp-text-mining-working-examples/tree/master/word2vec
 
 #### Notebook 5 (dir: word2vec):
-- Create a custom word2vec library based on the Amazon Review for Sentiment Analysis (Kaggle) dataset  
+- Create a custom word2vec library based on the Amazon Review for Sentiment Analysis (Kaggle) dataset  using Gensim
 - Dataset: https://www.kaggle.com/bittlingmayer/amazonreviews
