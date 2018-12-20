@@ -26,3 +26,7 @@
 - Create a custom word2vec library based on the OpinRank dataset containing reviews about cars and hotels 
 - Reference Article : http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.XBjfIWloTDc
 - Dataset: https://github.com/kavgan/nlp-text-mining-working-examples/tree/master/word2vec
+
+#### Notebook 5 (dir: word2vec):
+- Create a custom word2vec library based on the Amazon Review for Sentiment Analysis (Kaggle) dataset  
+- Dataset: https://www.kaggle.com/bittlingmayer/amazonreviews
